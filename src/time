@@ -1,0 +1,9 @@
+Iterator: 56ms
+Enumeration: 153ms
+HashSet: 410ms
+File: 299ms
+
+Iterator: 9499ms
+Enumeration: 6728ms
+HashSet: 1892ms
+File: 393ms
